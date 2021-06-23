@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronScheme" Version="0.9.115672" />
+    <PackageReference Include="IronScheme.Core" Version="1.0.231" />
+  </ItemGroup>
+
+</Project>
